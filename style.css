@@ -244,23 +244,32 @@ body {
     height: 10px;
     margin-top: 32px;
 }
+.newthird{
+    background-color:pink;
+    width: 50%;
+}
 .per2{
     position: relative;
     bottom: 21px;
     left: 17rem;
 }
+.per4{
+    position: relative;
+    bottom: 21px;
+    left: 10rem;
+}
 .fourth-skill{
     background-color:purple;
     position: relative;
     border-radius: 20px;
-    width: 50%;
+    width: 40%;
     height: 10px;
     margin-top: 32px;
 }
 .per3{
     position: relative;
     bottom: 21px;
-    left: 14rem;
+    left: 9.5rem;
 }
 /* services css */
 .serv-head{
